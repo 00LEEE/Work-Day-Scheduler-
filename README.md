@@ -17,7 +17,7 @@ A scheduler for your day to day work-life.
 
 ![Alt text](https://i.imgur.com/NrzUP99.png)
 
-Deployed website on Github Pages: 
+Deployed website on Github Pages: https://00leee.github.io/Work-Day-Scheduler-/
 
 # Licensed
 - This project is Licensed under the MIT License.
