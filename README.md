@@ -15,7 +15,7 @@ A scheduler for your day to day work-life.
 - I misspelt a couple things as well which caused my javascript and html to toss errors back and fourth. 
 - The creation of the timeblocks was a little difficult, but also soon I realized I didnt link my java file to my html so none of my javascript was working because the file path was wrote wrong.
 
-![Alt text](https://i.imgur.com/NrzUP99.png)
+![Alt text](https://i.imgur.com/shpJodB.png)
 
 Deployed website on Github Pages: https://00leee.github.io/Work-Day-Scheduler-/
 
