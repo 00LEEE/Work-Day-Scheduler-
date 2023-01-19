@@ -9,6 +9,7 @@ A scheduler for your day to day work-life.
 - CSS - Used for styling.
 - JavaScript - Used for the actual functionality of the project.
 - Bootstrap - Used for some different customizations.
+- Jquery - 
 
 #   Trials I Experienced
 - I orginally wrote a little bit more complicated JavaScript, however I could't get it to function properly so I got help from a classmate.
