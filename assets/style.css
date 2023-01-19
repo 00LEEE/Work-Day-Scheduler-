@@ -1,0 +1,70 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    background-color: rgb(162, 130, 236);
+  }
+  
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: rgb(0, 0, 0);
+    border-left: 1px solid #595a5a;
+    padding: 10px;
+  }
+  
+  .header {
+    text-align: center;
+    background-color: #b286bd;
+    color: white;
+    border-bottom: 8px solid white;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    border-radius: 15px;
+  }
+  
+  .row {
+    border-top: 1px solid white;
+  }
+  
+  .hour {
+    background-color: #5a5366;
+    color: rgb(255, 255, 255);
+    border-top: 1px dashed rgb(255, 255, 255);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  
+  .past {
+    background-color: #748fe7;
+    color: white;
+  }
+  
+  .present {
+    background-color: #06c274;
+    color: white;
+  }
+  
+  .future {
+    background-color: #294a6e;
+    color: white;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid rgb(139, 127, 127);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(116, 148, 170);
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
